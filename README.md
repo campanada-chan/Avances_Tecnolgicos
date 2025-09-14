@@ -1,2 +1,2 @@
-# Avances-Tecnol-gicos-
+# Avances_Tecnolgicos
 Materia del semestre
